@@ -1,0 +1,37 @@
+AccountID,RoleName,TrustPolicyUpdated
+767397855823,aaronson,True
+767397855823,Alexander-Arnold,True
+767397855823,AWSServiceRoleForAccessAnalyzer,Skipped (Protected role)
+767397855823,AWSServiceRoleForAPIGateway,Skipped (Protected role)
+767397855823,AWSServiceRoleForAutoScaling,Skipped (Protected role)
+767397855823,AWSServiceRoleForECS,Skipped (Protected role)
+767397855823,AWSServiceRoleForElasticLoadBalancing,Skipped (Protected role)
+767397855823,AWSServiceRoleForOrganizations,Skipped (Protected role)
+767397855823,AWSServiceRoleForRDS,Skipped (Protected role)
+767397855823,AWSServiceRoleForSSO,Skipped (Protected role)
+767397855823,AWSServiceRoleForSupport,Skipped (Protected role)
+767397855823,AWSServiceRoleForTrustedAdvisor,Skipped (Protected role)
+767397855823,Beard,True
+767397855823,brian_mcbride,True
+767397855823,cg-lambda-invoker-vulnerable_lambda_cgidn0p0zov78s,True
+767397855823,christian_pulisic,True
+767397855823,Ertz,True
+767397855823,event_bridge_sns_rce_role,True
+767397855823,fox,True
+767397855823,Kent,True
+767397855823,landon_donovan,True
+767397855823,Lasso,True
+767397855823,mewis,True
+767397855823,my-app-role,True
+767397855823,pepi,True
+767397855823,producer,True
+767397855823,raj-cft,True
+767397855823,ramos,True
+767397855823,ream,True
+767397855823,sauerbrunn,True
+767397855823,spy-sns-role,True
+767397855823,swanson,True
+767397855823,tab_ramos,True
+767397855823,viniciusjr,True
+767397855823,vuln,True
+767397855823,vulnerable_lambda_cgidn0p0zov78s-policy_applier_lambda1,True
